@@ -1,0 +1,16 @@
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\bin\Debug\winSchoolMS.exe.config
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\bin\Debug\winSchoolMS.exe
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\bin\Debug\winSchoolMS.pdb
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.csproj.AssemblyReference.cache
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.csproj.SuggestedBindingRedirects.cache
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.frmstudentpersenolinformation.resources
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.Properties.Resources.resources
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.csproj.GenerateResource.cache
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.csproj.CoreCompileInputs.cache
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.exe
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.pdb
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.frmStudentDetailsVeiw.resources
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.EducationalDetails.resources
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.EducationalDetailsVeiw.resources
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.AttendenceDetails.resources
+D:\SMS (VP PROJECT)\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.AttendenceDetailVeiw.resources
